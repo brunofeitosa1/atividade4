@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Meu Redirect</title>
+
+    <meta http-equiv="refresh" content="0; URL='https://www.uol.com.br/';'"/>
+</head>
+<body>
+    <p>
+        O conteúdo desta página foi movido permanentemente para o link:
+        <a href="http://www.uol.com.br/';">www.uol.com.br</a>
+    </p>
+</body>
+</html>
